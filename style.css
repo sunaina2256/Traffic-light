@@ -5,21 +5,7 @@
     border-radius: 67px;
     margin-left: 40%;
 }
-/* For mobile devices */
-@media (max-width: 768px) {
-  .box {
-    width: 100%;
-    font-size: 14px;
-  }
-}
 
-/* For desktop */
-@media (min-width: 769px) {
-  .box {
-    width: 50%;
-    font-size: 18px;
-  }
-}
 .traffic-light{
     display: flex;
     align-items: center;
@@ -61,4 +47,5 @@
     width: 50px;
     background-color: black;
     margin-left: 44%;
+
 }
